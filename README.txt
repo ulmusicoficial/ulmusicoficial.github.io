@@ -1,5 +1,18 @@
-UL Music — actualización de portada principal
+UL Music — plataformas verificadas 2026
 
-Se corrigió la superposición del texto y la imagen de inicio. Se preservan logo, imagen, discografía, saga, botones sociales, enlaces, dominio y contenido restante. Diseño adaptable a celular.
+Esta versión actualiza la sección de plataformas musicales para mostrar únicamente servicios verificados personalmente por Uriel Lizárraga:
+- Spotify
+- Apple Music
+- YouTube Music
+- Amazon Music
 
-Para publicar: extrae este ZIP, entra a GitHub al repositorio ulmusicoficial.github.io, abre Code > Add file > Upload files, arrastra index.html y assets, y guarda con Commit changes. README.md y CNAME del repositorio deben conservarse. No modificar DNS ni Pages.
+Cada tarjeta dirige directamente a la canción «No Me Alcanzó Tu Amor».
+Las redes sociales conservan sus logotipos y enlaces oficiales.
+
+Subida:
+1. Extrae este ZIP.
+2. Ve al repositorio ulmusicoficial.github.io en GitHub.
+3. Code > Add file > Upload files.
+4. Sube index.html y la carpeta assets.
+5. Commit changes.
+6. Recarga ulmusicoficial.com con Ctrl + Shift + R.
