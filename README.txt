@@ -1,8 +1,9 @@
-UL Music — actualización plataformas y saga 2026
+UL Music | Actualización YouTube — 21 octubre 2026
 
-1. Mantiene enlaces directos verificados en Spotify, Apple Music, YouTube Music y Amazon Music.
-2. Añade información de los demás servicios de distribución de DistroKid, aclarando que no se verificó presencia de UL Music allí.
-3. Destaca la playlist de la saga en un botón naranja-rojo con icono YouTube.
-4. Conserva Historia, imágenes, redes, discografía y contacto.
+Esta actualización conserva ambos accesos a la misma playlist oficial:
+- Al final de LA SAGA: acceso contextual en tarjeta azul/roja con logotipo y nombre YouTube; explica el orden narrativo de los capítulos.
+- En PLATAFORMAS: acceso rápido destacado con imagen de marca YouTube, para quienes están explorando los servicios musicales.
 
-Para instalar: extrae ZIP, sube archivos al repositorio ulmusicoficial.github.io en GitHub > Add file > Upload files y confirma el commit. No modifiques DNS.
+Se mantienen las cuatro plataformas confirmadas y sus enlaces directos a No Me Alcanzó Tu Amor; distribución DistroKid, biografía, portada, redes sociales y contacto.
+
+Para publicar: descomprime el ZIP y sube el contenido (index.html y assets) por Code > Add file > Upload files en ulmusicoficial.github.io; confirma Commit changes. No modificar DNS.
