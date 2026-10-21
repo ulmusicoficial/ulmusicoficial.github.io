@@ -1,9 +1,5 @@
-UL MUSIC — WEB ACTUALIZADA AL 21/10/2026
+UL Music — actualización de portada principal
 
-Para GitHub Pages: abre la carpeta y sube index.html y la carpeta assets a la raíz del repositorio ulmusicoficial.github.io (NO subas el ZIP).
+Se corrigió la superposición del texto y la imagen de inicio. Se preservan logo, imagen, discografía, saga, botones sociales, enlaces, dominio y contenido restante. Diseño adaptable a celular.
 
-La playlist contiene un enlace transcrito de capturas de pantalla y debe verificarse antes de anunciarlo.
-Fechas tomadas de la programación enviada; plataformas no enlazadas individualmente hasta confirmar los perfiles.
-Reemplaza o corrige los datos publicando nuevos archivos en GitHub.
-
-Actualizacion 21/10/2026: enlaces Facebook, TikTok, Instagram y correo incorporados a Contacto y pie de pagina.
+Para publicar: extrae este ZIP, entra a GitHub al repositorio ulmusicoficial.github.io, abre Code > Add file > Upload files, arrastra index.html y assets, y guarda con Commit changes. README.md y CNAME del repositorio deben conservarse. No modificar DNS ni Pages.
